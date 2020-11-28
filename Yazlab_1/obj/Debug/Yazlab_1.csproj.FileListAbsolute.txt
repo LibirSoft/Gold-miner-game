@@ -1,0 +1,17 @@
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\bin\Debug\Yazlab_1.exe.config
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\bin\Debug\Yazlab_1.exe
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\bin\Debug\Yazlab_1.pdb
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\Yazlab_1.csprojAssemblyReference.cache
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\MainWindow.g.cs
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\App.g.cs
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\Yazlab_1_MarkupCompile.cache
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\Yazlab_1_MarkupCompile.lref
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\MainWindow.baml
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\Yazlab_1.g.resources
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\Yazlab_1.Properties.Resources.resources
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\Yazlab_1.csproj.GenerateResource.cache
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\Yazlab_1.csproj.CoreCompileInputs.cache
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\Yazlab_1.exe
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\Yazlab_1.pdb
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\StartScreen.g.cs
+D:\Workspaces\C#\Yazlab_1\Yazlab_1\obj\Debug\StartScreen.baml
